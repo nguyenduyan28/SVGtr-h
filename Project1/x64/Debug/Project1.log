@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\hcmus\oop\proj\drawSVG\Project1\Source.cpp(148,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\hcmus\oop\proj\drawSVG\Project1\Source.cpp(161,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\hcmus\oop\proj\drawSVG\Project1\Source.cpp(169,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\hcmus\oop\proj\drawSVG\Project1\Source.cpp(170,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> D:\hcmus\oop\proj\drawSVG\x64\Debug\Project1.exe
